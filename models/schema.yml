@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: customers
-    description: One record per customer
+    description: The customers record contains the customers' identity details such as the id, first and last name. It also details the order details of each customer
     columns:
       - name: customer_id
         description: Primary key
